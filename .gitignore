@@ -10,3 +10,5 @@ venv
 .env
 .venv
 key.json
+# My virtualenv folderw
+calcs
